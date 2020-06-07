@@ -1,0 +1,46 @@
+/*li{
+	list-style: ;
+		display: inline-block;
+
+}*/
+.active{
+   color: rgba(150,130,300,.8);
+}
+body{
+		background-color: rgba(100,40,255,.2);
+	}
+
+.hola{
+font-family: 'Playfair Display', serif;
+font-size: 50px;
+}
+
+.ik{
+	font-family: 'Playfair Display', serif;
+font-family: 'Tenali Ramakrishna', sans-serif;
+font-size: 30px;
+
+}
+ul {
+  list-style: square inside url("sqpurple.gif");
+}
+.tii{
+	text-align: center;
+	font-size: 30px;
+	background-color: rgb(2,200,20);
+	/*color: darkblue;*/
+}
+
+.tii:hover{
+	color: red;
+	background: green;
+}
+a:hover {
+	font-family: 'Playfair Display', serif;
+	background-color: yellow;
+}
+
+.BoxMod{
+	border: 2px solid blue;
+	margin: 20px;
+}
